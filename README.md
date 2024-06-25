@@ -8,8 +8,6 @@ See the `README.md` file in the `data` directory for instructions on downloading
 
 ## Training Model
 
-To train and evaluate a model, the next two steps are required:
-
 See `run.sh` .
 
 ## Pretrained Models
